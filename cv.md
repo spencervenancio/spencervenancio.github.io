@@ -6,7 +6,7 @@ permalink: /cv
 
 ## Curriculum Vitae
 
-[Download PDF version](#) *(add a link to your CV PDF once uploaded)*
+[Download PDF version](/assets/CV.pdf)
 
 ---
 

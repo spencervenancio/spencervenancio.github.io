@@ -17,5 +17,5 @@ I am Spencer Venancio, an early-career researcher working at the intersection of
 
 ### Contact
 
-- **Email:** [your.email@institution.edu]
+- **Email:** <a href="mailto:svenancio@wisc.edu" style="color: #000000; text-decoration: none;">svenancio@wisc.edu</a>
 - **GitHub:** [github.com/spencervenancio](https://github.com/spencervenancio)
